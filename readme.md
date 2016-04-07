@@ -15,7 +15,7 @@ File Structure
 ## Release Two
 
 `index.php` Apply the bootstrap UI framework and dress up the page appropriately. The form should be configured to submit to `uploader.php`.
-`uploader.php` should save the file to the `./uploadFolder` directory.
+`uploader.php` should save the file to the `./uploadFolder` directory. **This should accommodate a 300mb file upload**.
 `readme.md` In addition to your deployment processes please detail out your installation process for configuring .
 
 File Structure
