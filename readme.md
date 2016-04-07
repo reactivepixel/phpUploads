@@ -3,8 +3,6 @@ Utilize a Feature Branch Git Workflow to work with your teammates to make two de
 
 ## Release One
 
-Create two files:
-
 `index.php` should have a form with two inputs['title','file'].
 `info.php` should display all PHP configuration information.
 `readme.md` should detail out your process for deployment. This should include all steps that follow a **feature branch deployment** pattern.
